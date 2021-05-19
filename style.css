@@ -1,0 +1,27 @@
+.search {border-radius: 500px;
+    width: 250px;
+    background-color: whitesmoke;
+    color: teal;
+    height: 50px;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 60px 60px 60px 60px;
+}
+.circle {
+    border-radius: 50px;
+    height: 50px;
+    font-size: 30px;
+    width: 50px;
+    background-color:teal;
+    color: ivory;
+    margin:-10px 50px 50px 50px
+
+}
+    .create {
+        width: 200px;
+        height: 35px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: blue;
+        color: whitesmoke;
+        margin: 10px 50px 50px 50px;
+    }
